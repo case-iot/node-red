@@ -1,6 +1,6 @@
 {
-    "name"         : "node-red",
-    "version"      : "0.14.6",
+    "name"         : "case-node-red",
+    "version"      : "1.0.0",
     "description"  : "A visual tool for wiring the Internet of Things",
     "homepage"     : "http://nodered.org",
     "license"      : "Apache-2.0",
@@ -54,14 +54,9 @@
         "uglify-js":"2.7.0",
         "when": "3.7.7",
         "ws": "0.8.1",
-        "xml2js":"0.4.17",
-        "node-red-node-feedparser":"0.1.*",
-        "node-red-node-email":"0.1.*",
-        "node-red-node-twitter":"0.1.*",
-        "node-red-node-rbe":"0.1.*"
+        "xml2js":"0.4.17"
     },
     "optionalDependencies": {
-        "node-red-node-serialport":"0.2.*",
         "bcrypt":"0.8.7"
     },
     "devDependencies": {
